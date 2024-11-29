@@ -1,0 +1,496 @@
+.header_logo{
+    margin-top: 20px;
+    margin-bottom: 0px;
+    margin-left: 72px;
+    margin-right: 1289px;
+}
+body{
+    margin: 0;
+    font-family: Sen, sans-serif;
+    width: 100%;
+    max-width: 1440px;
+    background-color: black;
+    padding: 0%;
+}
+header{
+    height: 100vh;
+    background-size: cover;
+}
+.shapka{
+
+}
+.navbar{
+    text-decoration: none;
+    color: #fff;
+    size: 16px;
+    font-weight: 400;
+    margin-right: 30px;
+}
+.nav{
+    position: absolute;
+    left: 892px;
+    right: 72px;
+    top: 32px;
+}
+.rob{
+    position: absolute;
+    top: 100px;
+}
+.im{
+    position: absolute;
+    left:662px;
+    right: 40px;
+    top: 221px;
+    bottom: 225px;
+}
+.Robin{
+    font-size: 78px;
+    color: #fff;
+}
+.pro{
+    position: relative;
+    left: 662px;
+    right: 40px;
+    top: -140px;
+    bottom: 225px;
+}
+.probably{
+    font-size: 18px;
+    color: #fff;
+}
+a:hover{
+    color:#5221E6;
+    transition: color 0.8 linear;
+}
+.navbar1{
+    text-decoration: none;
+    color: #fff;
+    size: 16px;
+    font-weight: 400;
+    margin-right: 30px;
+    background-color: #5221E6;
+}
+.work{
+    position: relative;
+    top: 90px;
+    left: 72px;
+    right: 1210px;
+}
+.wor{
+    font-size: 16px;
+    color: #8491A0;
+}
+.comp{
+    position: relative;
+    top: 120px;
+    left: 72px;
+    right: 678px;
+}
+.com{
+    font-size: 55px;
+    color: #fff;
+}
+.siskris{
+    background-color: #5221E6;
+}
+.container1{
+    position: absolute;
+    left: 72px;
+    top: 1250px;
+    right: 952px;
+}
+.container2{
+    position: absolute;
+    left: 512px;
+    top: 1250px;
+    right: 512px;
+}
+.container3{
+    position: absolute;
+    left: 952px;
+    top: 1250px;
+    right: 72px;
+}
+.n1{
+    font-size: 110px;
+    color: #8491A0;
+}
+.n2{
+    font-size: 110px;
+    color: #8491A0;
+}
+.n3{
+    font-size: 110px;
+    color: #8491A0;
+}
+.go{
+    color: #3CC74E;
+}
+.fa{
+    color: #609BFF;
+}
+.dr{
+    color: #E95D90;
+}
+.goo{
+    font-size: 24px;
+    color: #fff;
+}
+.start{
+    color: #8491A0;
+    font-size: 16px;
+    position: relative;
+    top: 22px;
+}
+.phylosophy_frame{
+    width: 720px;
+    height: 600px;
+    background-color: #FFF3E4;
+    position: relative;
+    top: 450px;
+}
+.ph_and{
+    position: relative;
+    left: 72px;
+    top: 120px;
+    right: 119px;
+    bottom: 414px;
+}
+.ithink{
+    position: relative;
+    top: 120px;
+    bottom: 282px;
+    right: 72px;
+    left: 72px;
+}
+.more{
+    position: relative;
+    top: 280px;
+    left: 72px;
+    right: 532px;
+    bottom: 120px;
+}
+.ph_text{
+    color: black;
+    font-size: 55px;
+    font-weight: bold;
+}
+.ithink{
+    color: #5B6876;
+    font-size: 18px;
+}
+.moreabout{
+    color: #000;
+    font-size: 18px;
+    border: #8491A0 solid;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-width: 1px;
+    width:137px;
+}
+.abome{
+    color: #000;
+    text-decoration: none;
+}
+.img2{
+    position: relative;
+    left: 720px;
+    width: 720px;
+    height: 600px;
+    top: -266px;
+}
+.block{
+    position: relative;
+    top: 120px;
+    left: 72px;
+    width: 416px;
+    height: 225px;
+}
+.pr{
+    display: flex;
+    margin: 10px;  
+    position:absolute;
+    top: 150px;
+    left: 512px;
+    width: 416px;
+    height: 176px;
+}
+#cvet{
+    color: white;
+    font-size: 55px;
+}
+#cvet1{
+    color: #8491A0;
+    font-size: 16px;
+}
+.none{
+    position: absolute;
+    top: 90px;
+}
+#pro{
+    color: white;
+}
+#working{
+    color: #8491A0;
+    font-size: 16px;
+}
+.product{
+    display: grid;
+    grid-template-columns: auto;
+}
+.img{
+    grid-column: 1;
+    grid-row: 1;
+}
+.vi{
+    display: flex;
+    margin:30px;
+    top: 133px;
+    left: 952px;
+    position: absolute;
+}
+#visu{
+    color: white;
+    font-size: 24px;
+}
+#my{
+    color:#8491A0;
+    font-size: 16px;
+}
+.visual{
+    display: grid;
+    grid-template-columns: auto;
+}
+#img1{
+    grid-column: 1;
+    grid-row: 1;
+}
+.mo{
+    display: flex;
+    position: absolute;
+    top: 380px;
+    left: 525px;
+    height: 200px;
+    width: 416px;
+}
+#moti{
+    color: white;
+    font-size: 24px;
+}
+#mi{
+    color:#8491A0;
+    font-size: 16px;
+}
+.motion{
+    display: grid;
+    grid-template-columns: auto;
+}
+#img2{
+    grid-column: 1;
+    grid-row: 1;
+}
+.ph{
+    display: flex;
+    position: absolute;
+    top: 385px;
+    left: 985px;
+    height: 176px;
+    width: 416px;
+}
+#pho{
+    color: white;
+    font-size: 24px;
+}
+#click{
+    color:#8491A0;
+    font-size: 16px;
+}
+.photo{
+    display: grid;
+    grid-template-columns: auto;
+}
+#img3{
+    grid-column: 1;
+    grid-row: 1;
+}
+.skillset_frame{
+    position: relative;
+    top: 350px;
+}
+.cheeto{
+    position:relative;
+    top: 750px;
+    height: 140px;
+    border: 1px;
+    border: #181823 solid medium;
+    border-width: 1px;
+    border-right: #181823 solid medium;
+    border-left: #181823 solid medium;
+    border-bottom: #181823 solid medium;
+}
+.img6{
+    position: relative;
+    left: 128px;
+    right: 127px;
+    bottom: 55px;
+    top: 55px;
+}
+.img7{
+    position: absolute;
+    left: 519px;
+    right: 836px;
+    bottom: 55px;
+    top: 55px;
+}
+.img8{
+    position: absolute;
+    left: 858px;
+    right: 497px;
+    bottom: 55px;
+    top: 55px;
+}
+.img9{
+    position: absolute;
+    left: 1198px;
+    right: 157px;
+    bottom: 55px;
+    top: 55px;
+}
+/*доделать*/
+.years{
+    height: 2201px;
+}
+.proj{
+    position: relative;
+    top: 890px;
+    left: 72px;
+    right: 1262px;
+    bottom: 1057px;
+}
+.done{
+    position: relative;
+    top: 860px;
+    left: 72px;
+    right: 796px;
+    bottom: 1917px;
+}
+.img100{
+    position: relative;
+    top: 900px;
+    left: 72px;
+    bottom: 1007px;
+    right: 732px;
+}
+.proji{
+    color: #8491A0;
+    font-size: 16px;
+}
+.eve{
+    color: #fff;
+    font-size: 55px;
+}
+.img101{
+    position: relative;
+    top: -150px;
+    left: 732px;
+    right: 72px;
+    bottom: 1251px;
+}
+.img102{
+    position: relative;
+    top: 90px;
+    left: 72px;
+    bottom: 363px;
+    right: 732px;
+}
+.img103{
+    position: relative;
+    top: -960px;
+    left: 732px;
+    right: 72px;
+    bottom: 607px;
+}
+.view{
+    position: relative;
+    display: block;
+    width: 247px;
+    height: 75px;
+    border: 1px solid #5221E6;
+    left: 927px;
+    top: -900px;
+    right: 266px;
+    bottom: 231px;
+}
+.all{
+    position: relative;
+    top: 24px;
+    bottom: 24px;
+    left: 32px;
+    right: 32px;
+    color: white;
+    font-size: 18px;
+    font-weight: bold; 
+}
+.lol{
+    text-decoration: none;
+    color: #fff;
+}
+.plane_frame{
+    width: 720px;
+    height: 600px;
+    background-color: #FFF3E4;
+    position: relative;
+    top: 600px;
+}
+.pl_and{
+    position: relative;
+    left: 72px;
+    top: 120px;
+    right: 363px;
+    bottom: 414px;
+}
+.iplane{
+    position: relative;
+    top: 120px;
+    bottom: 282px;
+    right: 72px;
+    left: 72px;
+}
+.more1{
+    position: relative;
+    top: 280px;
+    left: 72px;
+    right: 532px;
+    bottom: 120px;
+}
+.pl_text{
+    color: black;
+    font-size: 55px;
+    font-weight: bold;
+}
+.plane{
+    color: #5B6876;
+    font-size: 18px;
+}
+.moreabout1{
+    color: #000;
+    font-size: 18px;
+    border: #8491A0 solid;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-width: 1px;
+    width:150px;
+}
+.img666{
+    position: relative;
+    left: 720px;
+    width: 720px;
+    height: 600px;
+    top: -256px;
+}
+.foll{
+    text-decoration: none;
+    color: black;
+}
