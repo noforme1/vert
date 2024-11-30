@@ -494,3 +494,62 @@ a:hover{
     text-decoration: none;
     color: black;
 }
+footer{
+    position: relative;
+    width: 100%;
+    padding: 2% 0;
+    color: #fff;
+    background-color: #181823;
+    top: 600px;
+}
+footer article{
+    margin: 30px 5% 0;
+    font-weight: 400;
+    font-size: 16px;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+}
+.icones div{
+    width: 104px;
+    display: flex;
+    flex-flow: row;
+}
+.icones div ing{
+    margin-right: 15px;
+}
+.icones img{
+    margin-bottom: 10px;
+}
+.footer_navigation{
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+}
+.nav_link1{
+    flex-flow: column nowrap;
+    align-items: flex-start;
+    justify-content: space-between;
+    height: 100%;
+    flex-direction: column;
+}
+.nav_link2{
+    height: 140px;
+    position: relative;
+    left: -200px;
+}
+.footer_navigation{
+    color:white;
+    text-decoration: none;
+}
+.nav_link1 a{
+    color: white;
+    text-decoration: none;
+}
+.nav_link2 a{
+    color: white;
+    text-decoration: none;
+}
+.footer_navigation a{
+    margin: 10px;
+}
